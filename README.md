@@ -15,7 +15,9 @@ In onderstaande lijst is een en ander aan portfolio te vinden.
 - [Python en AI portfolio](./python/python.md)
 - [Action Script portfolio](./actionscript/actionscript.md)
 - [Web en Cloud portfolio](./web/web.md)
+- [Software Architectuur, Modelling portfolio](./modelling/modelling.md)
 - [Robotica portfolio](./robotica/robotica.md)
+- [Randapparatuur portfolio](https://www.rsi-hulpmiddelen.nl/)
 
 ### Hobbies en zo
 
