@@ -22,10 +22,10 @@ Helaas is Flash door Apple en later ook door Google de nek om gedraaid. De betre
 
 Verder, eveneens met Unity3D gemaakt:
 - Een **Interactieve Menu Card** (Augmented Reality), zie [hier](https://www.youtube.com/watch?v=H6AXHX-ISTE).
-- Een Serious Game**** (order picken in Virtual Reality) voor Hoogvliet.
+- Een **Serious Game** (order picken in Virtual Reality) voor Hoogvliet.
 - Twee Virtual Reality projecten voor Friesland Campina:
-  - Een bezichtiging**** van enkele nieuwe installaties
-  - Een bezichtinging van een nog compleet nieuw te bouwen fabriek, ivm pre-inspectie van veiligeheidsaspecten.
+  - **Een bezichtiging** van enkele **nieuwe installaties**
+  - Een bezichtinging van een nog **compleet nieuw te bouwen fabriek**, ivm pre-inspectie van veiligeheidsaspecten.
 - Demonstratie-VR games op Android:
   - **3D Family House** (+- half miljoen downloads)
   - **VR Family House**
