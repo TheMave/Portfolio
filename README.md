@@ -18,6 +18,7 @@ In onderstaande lijst is een en ander aan portfolio te vinden.
 - [Software Architectuur, Modelling portfolio](./modelling/modelling.md)
 - [Robotica portfolio](./robotica/robotica.md)
 - [Randapparatuur portfolio](https://www.rsi-hulpmiddelen.nl/)
+- [Electronica portfolio](./electronica/electronica.md)
 
 ### Hobbies en zo
 
