@@ -11,8 +11,8 @@ Laat ik mij even voorstellen - ik ben Marius Versteegen. Voor de gelegenheid heb
 In onderstaande lijst is een en ander aan portfolio te vinden.
 
 - [C++ portfolio](./c++/c++.md)
-- [C# portfolio](./c#/c#.md)
-- [Python en AI portfolio](./python/python)
+- [C# portfolio](./c-sharp/c-sharp.md)
+- [Python en AI portfolio](./python/python.md)
 - [Action Script portfolio](./actionscript/actionscript.md)
 - [Web en Cloud portfolio](./web/web.md)
 - [Robotica portfolio](./robotica/robotica.md)
