@@ -19,6 +19,7 @@ In onderstaande lijst is een en ander aan portfolio te vinden.
 - [Robotica portfolio](./robotica/robotica.md)
 - [Randapparatuur portfolio](https://www.rsi-hulpmiddelen.nl/)
 - [Electronica portfolio](./electronica/electronica.md)
+- [Onderwijs portfolio](./onderwijs/onderwijs.md)
 
 ### Hobbies en zo
 
