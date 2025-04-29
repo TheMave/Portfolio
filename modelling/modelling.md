@@ -13,7 +13,7 @@ Mede door het geven van deze vakken ben ik zelfs meer nog dan voor mijn hogescho
 Onderstaand een impressie van modellen die ik heb gemaakt.
 
 - [Een Functionele Decompositie van een zelfontworpen kattenvoermachine](./img/Logical_View_Kattenvoermachine.svg)
-- [Een BDD erbij](./img/kattenvoermachine.svg) (inclusief CleanCore en CleanGUI, zie ook [embedded portfolio](../c++/embedded/embedded.md))
+- [Een BDD erbij](./img/kattenvoermachine.png) (inclusief CleanCore en CleanGUI, zie ook [embedded portfolio](../c++/embedded/embedded.md))
 - [Een STD ervan](./img/Kattenvoermachine-STD-Pet-In-Tunnel-Detector.svg)
 - [Een Object Model van een zelfontworpen 3d printer](./img/3dPrinter_Totaal_OM.svg)
 - [Een Klassediagram erbij](./img/3dPrinter_Totaal_CD.svg)
