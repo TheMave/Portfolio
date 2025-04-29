@@ -8,5 +8,10 @@ Op de hogeschool heb ik een aantal vakken onderwezen die met electronica te make
   - **Voortgezette electronica**
   - **Regeltechniek**
 
+Verder heb ik daar een **PLC-cursus** van een collega gevolgd en de volgende topics geleerd:
+- Ontwerpen van **SFC**
+- Ontwerpen en testen van bijbehorend **ladder netwerk**
+- Ontwerpen en testen van bijbehorende **structural code**
+
 ## In het bedrijfsleven
 Ik heb me bij Philips Semiconductors (tegenwoordig heet dat NXP) bezig gehouden met de ontwikkeling van **microelectronica** voor een aantal chips, met name **analoge versterkers** voor in autoradio's.

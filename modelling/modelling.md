@@ -17,8 +17,9 @@ Onderstaand een impressie van modellen die ik heb gemaakt.
 - [Een STD ervan](./img/Kattenvoermachine-STD-Pet-In-Tunnel-Detector.svg)
 - [Een Object Model van een zelfontworpen 3d printer](./img/3dPrinter_Totaal_OM.svg)
 - [Een Klassediagram erbij](./img/3dPrinter_Totaal_CD.svg)
-- [Een activity diagram erbij](./img/3dPrinter_Totaal-ACT-Printen.svg)
+- [Een Activity Diagram erbij](./img/3dPrinter_Totaal-ACT-Printen.svg)
 - [Een STD van een NEC protocol met een flexibel aantal bytes](./img/NEC_protocol_met_geflexibiliseerd_aantal_bytes.svg)
+- [Een SFC voor een PLC, met een bijbehorend activity diagram](./img/activity_diagram_en_SFC_voor_PLC.svg)
 
 Bij het modelleren voor embedded en native voel ik me als een vis in het water.
 
