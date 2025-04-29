@@ -4,7 +4,7 @@
 
 - Voor Philips heb ik ook (in c++) **profiling software** geschreven, om die C code op performance te kunnen profilen.
 
-- Op Hogeschool Utrecht heb ik als hogeschooldocent Technisch Informatica onder andere c++ en embedded c++ gerelateerde **cursussen** gegeven. Een groot deel van het lesprogramma en het lesmateriaal voor [semester 2](https://github.com/HU-TI-DEV/TI-S2) en [semester 3](https://github.com/HU-TI-DEV/TI-S3) is door mij geschreven.
+- Op Hogeschool Utrecht heb ik als hogeschooldocent Technische Informatica onder andere c++ en embedded c++ gerelateerde **cursussen** gegeven. Een groot deel van het lesprogramma en het lesmateriaal voor [semester 2](https://github.com/HU-TI-DEV/TI-S2) en [semester 3](https://github.com/HU-TI-DEV/TI-S3) is door mij geschreven.
 
 - Voor de **ESP32** heb ik diverse **c++ libraries** geprogrammeerd die het programmeren ervan vergemakkelijken:
   
