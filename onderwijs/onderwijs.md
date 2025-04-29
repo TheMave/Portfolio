@@ -7,9 +7,9 @@ Dat heeft mijn didactische en communicatieve vaardigheden ontwikkeld.
 
   Deze scores zijn gegeven door de studenten die ik les heb gegeven.
   Ze zijn per vak opgebouwd uit subscores. Typisch bleek daar uit:
-  - Mijn vakinhoudelijke kennis werd als zeer goed beoordeeld.
+  - Mijn vakinhoudelijke kennis werd als goed tot zeer goed beoordeeld.
   - Mijn didactische vaardigheden voor grote groepen als matig.
-  - Mijn didactische vaardigheden naar individuele studenten als zeer goed.
+  - Mijn didactische vaardigheden naar individuele studenten als goed tot zeer goed.
 - Cursus BKE gevolgd (over toetsing).
 - Cursus BOU gevolgd (over lesgeven).
 - Cursus Slechtnieuws gesprekken gevolgd.
