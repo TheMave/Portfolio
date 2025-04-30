@@ -1,6 +1,6 @@
 # Portfolio van Marius Versteegen
 
-<img title="" src="img/foto_van_mezelf.jpg" alt="" width="164">
+<img title="" src="img/foto_van_mezelf_april_2025.jpg" alt="" width="164">
 
 ## Welkom bij mijn portfolio!
 
