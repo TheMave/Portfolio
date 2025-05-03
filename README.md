@@ -14,6 +14,7 @@ In onderstaande lijst is een en ander aan portfolio te vinden.
 - [C# portfolio](./c-sharp/c-sharp.md)
 - [Python en AI portfolio](./python/python.md)
 - [Action Script portfolio](./actionscript/actionscript.md)
+- [HLSL en GLSL portfolio](./HLSL_GLSL/HLSL_GLSL.md)
 - [Web en Cloud portfolio](./web/web.md)
 - [Software Architectuur, Modelling portfolio](./modelling/modelling.md)
 - [Robotica portfolio](./robotica/robotica.md)
