@@ -30,7 +30,7 @@ Eerst ook wel op **Amazon AWS** (Lightsail instances), maar nu alleen nog op een
 
 ## Cloudflare, Let's encrypt
 
-De https certificates laat ik gratis genereren via let's encrypt. Ik gebruik Cloudflare als gratis nameservice waar mijn Raspberri Pi 4 het (dynamische) ip nummer van mijn ziggo periodiek aan doorgeeft.
+De https certificates laat ik gratis genereren via let's encrypt. Ik gebruik Cloudflare als gratis nameservice waar mijn Raspberri Pi 4 het (dynamische) ip nummer van mijn ziggo router periodiek aan doorgeeft.
 
 ## React + TypeScript, Context, Immer, Redux, Flask, Node
 
